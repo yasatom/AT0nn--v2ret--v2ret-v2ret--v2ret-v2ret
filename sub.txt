@@ -1,2 +1,3 @@
 socks://Og==@به چنل ما بپیوندید....:443#t.me%2Fv2ret
 vless://5032cc3c-008f-4854-f3a6-9c51a505f428@fact.winsta.xyz:443?security=none&encryption=none&seed=8KdWAdqKrp&headerType=wireguard&type=kcp#WS-TLS-vless-VIP-%F0%9F%9F%A2Online-%F0%9F%87%BA%F0%9F%87%B8-united-state
+vless://5efa3b6e-cd95-4dd7-a33f-bdbe07eb5eaa@172.66.213.38:80?path=%2Ftelegram-EliV2ray%2Ctelegram-EliV2ray%2Ctelegram-EliV2ray%2Ctelegram-EliV2ray%2Ctelegram-EliV2ray%2Ctelegram-EliV2ray%3Fed&security=none&encryption=none&host=Eliv2rayEliv2rayEliv2rayEliv2ray.ELeNa.expert.&type=ws#WS-TLS-vless-VIP-%F0%9F%9F%A2Online-%F0%9F%87%A9%F0%9F%87%AA-germany
