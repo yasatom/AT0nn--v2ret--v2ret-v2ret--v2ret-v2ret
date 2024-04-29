@@ -2,4 +2,3 @@ socks://Og==@به چنل ما بپیوندید....:443#t.me%2Fv2ret
 vless://e5cb70b3-2a5f-402e-9be5-c2367a107f3c@5.253.43.210:443?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#WS-TLS-vless-VIP-%F0%9F%94%B4Offline-%F0%9F%87%BA%F0%9F%87%B8-United-State
 vless://86335524-a8c9-4805-9854-7195c57ca19b@213.159.64.5:443?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#WS-TLS-vless-VIP-%F0%9F%94%B4Offline-%F0%9F%87%B7%F0%9F%87%BA-Russia
 vless://5032cc3c-008f-4854-f3a6-9c51a505f428@fact.winsta.xyz:443?security=none&encryption=none&seed=8KdWAdqKrp&headerType=wireguard&type=kcp#WS-TLS-vless-VIP-%F0%9F%9F%A2Online-%F0%9F%87%BA%F0%9F%87%B8-United-State
-vless://e31e7b24-2e3f-45bb-9121-7ea726076ead@fact.winsta.xyz:443?security=none&encryption=none&seed=8KdWAdqKrp&headerType=wireguard&type=kcp#t248
