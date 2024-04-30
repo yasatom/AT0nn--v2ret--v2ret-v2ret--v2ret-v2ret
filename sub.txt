@@ -1,2 +1,1 @@
-socks://Og==@به چنل ما بپیوندید....:443#t.me%2Fv2ret
-vless://5032cc3c-008f-4854-f3a6-9c51a505f428@fact.winsta.xyz:443?security=none&encryption=none&seed=8KdWAdqKrp&headerType=wireguard&type=kcp#WS-TLS-vless-VIP-%F0%9F%9F%A2Online-%F0%9F%87%BA%F0%9F%87%B8-United-State
+ss://YWVzLTI1Ni1nY206dC5tZS92MnJldA==@چنل ما v2ret ...:443#%E2%9D%8C%EF%B8%8F+%D8%B3%D8%B1%D9%88%DB%8C%D8%B3+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84+%D9%85%DB%8C%D8%A8%D8%A7%D8%B4%D8%AF+%E2%9D%8C%EF%B8%8F
