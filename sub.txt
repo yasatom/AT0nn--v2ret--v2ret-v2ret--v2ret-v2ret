@@ -1,1 +1,109 @@
-ss://YWVzLTI1Ni1nY206dC5tZS92MnJldA==@چنل ما v2ret ...:443#%E2%9D%8C%EF%B8%8F+%D8%B3%D8%B1%D9%88%DB%8C%D8%B3+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84+%D9%85%DB%8C%D8%A8%D8%A7%D8%B4%D8%AF+%E2%9D%8C%EF%B8%8F
+{
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com"
+    },
+    "servers": [
+      "1.1.1.1"
+    ]
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false,
+        "xudpConcurrency": 8,
+        "xudpProxyUDP443": ""
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.21.19.124",
+            "port": 80,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "725c8f73-a116-46a5-850e-e59eee5867ef",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "",
+        "wsSettings": {
+          "headers": {
+            "Host": "cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.com.site.列列男事的事列上赛男.AvAyEbOzOrGaN.COm."
+          },
+          "path": "/telegram-@v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-V2rayngv2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-V2rayngmmd,Mmdv2rayn-V2rayngv2speed-telegram-v2speedvpn_bot?ed=2056"
+        }
+      },
+      "tag": "proxy"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {},
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "remarks": "V2RET–❄️-🇩🇪-❄️–FREE",
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "ip": [
+          "1.1.1.1"
+        ],
+        "outboundTag": "proxy",
+        "port": "53",
+        "type": "field"
+      }
+    ]
+  }
+}
