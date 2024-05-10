@@ -42,22 +42,22 @@
   "outbounds": [
     {
       "mux": {
-        "concurrency": -1,
-        "enabled": false,
-        "xudpConcurrency": 8,
-        "xudpProxyUDP443": ""
+        "concurrency": 0,
+        "enabled": true,
+        "xudpConcurrency": 0,
+        "xudpProxyUDP443": "allow"
       },
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "104.21.19.124",
+            "address": "blog.ordeloil.com",
             "port": 80,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "725c8f73-a116-46a5-850e-e59eee5867ef",
+                "id": "38dde106-3673-4ff6-9c4d-3e2058ede77b",
                 "level": 8,
                 "security": "auto"
               }
@@ -70,7 +70,7 @@
         "security": "",
         "wsSettings": {
           "headers": {
-            "Host": "cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.com.site.列列男事的事列上赛男.AvAyEbOzOrGaN.COm."
+            "Host": "cloudv2speed.v2rayng6.6.6.6.ir.com.site.列列男事的事列上赛男.OrDeLoIl.COm."
           },
           "path": "/telegram-@v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-V2rayngv2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-V2rayngmmd,Mmdv2rayn-V2rayngv2speed-telegram-v2speedvpn_bot?ed=2056"
         }
@@ -92,7 +92,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "V2RET–❄️-🇩🇪-❄️–FREE",
+  "remarks": "V2RET–🌟-🇩🇪-🌟–TUNNEL",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
